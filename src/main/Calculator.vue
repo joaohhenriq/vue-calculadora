@@ -1,6 +1,6 @@
 <template>
     <div class="calculator">
-        <Display />
+        <Display value="1000" />
         <Button label="AC" triple />
         <Button label="/" operation />
         <Button label="7" />
@@ -36,7 +36,7 @@ export default {
 
 <style>
 .calculator {
-    height: 530px;
+    height: 560px;
     width: 370px;
     border-radius: 5px;
     overflow: hidden;
