@@ -1,4 +1,5 @@
-# calculadora
+# Calculadora - VueJs
+O projeto envolve uma calculadora simples, utilizando o framework VueJs.
 
 ## Project setup
 ```
