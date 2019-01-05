@@ -45,11 +45,11 @@ export default {
 }
 
 .button.operation {
-    background-color: #fa8231;
+    background-color: #4d4dff;
     color: #fff;
 }
 
 .button.operation:active {
-    background-color: #fa8231cc;
+    background-color: #9999ff;
 }
 </style>
